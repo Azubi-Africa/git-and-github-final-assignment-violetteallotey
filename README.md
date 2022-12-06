@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  -Exploratory Data Analysis             |  -  Week 9   Project        | https://github.com/violetteallotey/Exploratory-Data-Analysis       |
+| 2 |  - Stochastic Gradient Descent 1            |  -  Week 11  Project         | https://github.com/violetteallotey/Stochastic-Gradient-Descent-1       |
+| 3 |  - Stochastic Gradient Descent            |  -  Week 12 Project           | https://github.com/violetteallotey/Stochastic-Gradient-Descent       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
